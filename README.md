@@ -1,7 +1,7 @@
 ## Using
 Firstly add sdk path address on System Variable. (like picture)
 
-[![a](https://i.hizliresim.com/OvppN3.png "a")](https://i.hizliresim.com/OvppN3.png "System Variable")
+[![System Variable](https://i.hizliresim.com/OvppN3.png "a")](https://i.hizliresim.com/OvppN3.png "System Variable")
 
 after open CMD with administrator.
 then
