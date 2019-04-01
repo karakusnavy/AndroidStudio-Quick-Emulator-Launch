@@ -1,7 +1,7 @@
 ## Using
 Firstly add sdk path address on System Variable. (like picture)
 
-[![System Variable](https://i.hizliresim.com/OvppN3.png "a")](https://i.hizliresim.com/OvppN3.png "System Variable")
+[![System Variable](https://user-images.githubusercontent.com/39852038/54479951-dd9b8680-4833-11e9-8df1-a53ff9a45c18.png "System Variable")
 
 after open CMD with administrator.
 then
@@ -14,9 +14,9 @@ after then
 
 **result: **
 
-**1) **Example bla bla emulator
-**2) **Example bla bla emulator
-**3) **Example bla bla emulator
+**1)** Example bla bla emulator
+**2)** Example bla bla emulator
+**3)** Example bla bla emulator
 **4)** Example bla bla emulator
 
 then
